@@ -586,3 +586,77 @@ footer {
   .contact-icon { width: 42px; height: 42px; }
   footer { flex-direction: column; gap: 12px; }
 }
+
+.nav a {
+  font-size: 12px;
+}
+.nav-cta {
+  font-size: 12px;
+}
+.hero-description p {
+  font-size: 19px;
+  line-height: 1.7;
+}
+.hero-card strong {
+  font-size: 13px;
+}
+.hero-card small {
+  font-size: 11px;
+}
+.about-lead p {
+  font-size: 30px;
+}
+.about-text p {
+  font-size: 16px;
+  line-height: 1.9;
+}
+.experience-type {
+  font-size: 10px;
+}
+.experience-heading h3 {
+  font-size: 27px;
+}
+.experience-date {
+  font-size: 10px;
+}
+.experience-description {
+  font-size: 14px;
+}
+.experience-card ul {
+  font-size: 14px;
+  line-height: 1.9;
+}
+.experience-focus span {
+  font-size: 10px;
+}
+.experience-focus strong {
+  font-size: 14px;
+}
+.skill-card h3 {
+  font-size: 23px;
+}
+.skill-card p {
+  font-size: 14px;
+  line-height: 1.8;
+}
+.cert-title {
+  font-size: 10px;
+}
+.cert-item {
+  font-size: 14px;
+}
+.cert-item span {
+  font-size: 11px;
+}
+.contact-card span {
+  font-size: 10px;
+}
+.contact-card strong {
+  font-size: 14px;
+}
+.contact-card small {
+  font-size: 11px;
+}
+footer {
+  font-size: 10px;
+}
